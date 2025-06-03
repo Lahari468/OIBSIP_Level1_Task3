@@ -1,7 +1,7 @@
 # OIBSIP_Level1_Task3
-# 🌡️ TempCalc – Temperature Converter
+# 🌡️ TempCalc
 
-**TempCalc** is a responsive, user-friendly temperature converter web app built using **HTML**, **CSS**, and **JavaScript**. It allows users to convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**, and provides a visual indicator and description of the temperature.
+**TempCalc** is a responsive, user-friendly temperature converter web application built using **HTML**, **CSS**, and **JavaScript**. It allows users to convert temperatures between **Celsius**, **Fahrenheit**, and **Kelvin**, and provides a visual indicator and description of the temperature.
 
 ---
 
