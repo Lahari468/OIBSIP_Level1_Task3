@@ -30,5 +30,5 @@
 
 ## 🖼️ Preview
 
-> ![Preview Screenshot](preview.png) *(Add your screenshot here if applicable)*
+> ![Preview Screenshot](preview.png)
 
