@@ -22,7 +22,7 @@
 - Conversion output is limited to **1 decimal place** for readability.
 
 
-## 💡 Extras
+## 💡CSS3
 
 - Fully responsive on small screens (mobile-first design).
 - Visual scale adjusts position of the indicator dynamically.
