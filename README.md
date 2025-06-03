@@ -27,3 +27,8 @@
 - Fully responsive on small screens (mobile-first design).
 - Visual scale adjusts position of the indicator dynamically.
 - Semantic code with accessibility-friendly form labeling.
+
+## 🖼️ Preview
+
+> ![Preview Screenshot](screenshot.png) *(Add your screenshot here if applicable)*
+
