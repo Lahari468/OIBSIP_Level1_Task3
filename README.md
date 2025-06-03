@@ -7,9 +7,9 @@
 
 ## 🚀 Features
 
-- 🔁 Convert between Celsius, Fahrenheit, and Kelvin
 - 🎨 Modern and responsive card-based UI design
 - 📈 Visual temperature scale indicator
+- 🔁 Convert between Celsius, Fahrenheit, and Kelvin
 - 💡 Temperature context comparison (e.g., "Cool spring-like temperature")
 - ⚠️ Input validation with error messages
 - 🖱️ Convert on button click or Enter key
