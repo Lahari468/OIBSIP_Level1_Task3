@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter</title>
+    <link rel="stylesheet" href="task3.css">
+</head>
+<body>
+    <div class="converter-card">
+        <div class="header">
+            <h1>TempCalc🌡️</h1>
+        </div>
+        
+        <div class="input-group">
+            <label for="temperature-input">Temperature Value:</label>
+            <div class="input-wrapper">
+                <input type="number" id="temperature-input" placeholder="Enter temperature">
+                <div class="error" id="error-message">Please enter a valid number</div>
+            </div>
+        </div>
+        
+        <div class="input-group">
+            <label for="unit-select">Convert From:</label>
+            <div class="input-wrapper">
+                <select id="unit-select">
+                    <option value="celsius">Celsius (°C)</option>
+                    <option value="fahrenheit">Fahrenheit (°F)</option>
+                    <option value="kelvin">Kelvin (K)</option>
+                </select>
+            </div>
+        </div>
+        
+        <button class="convert-btn" id="convert-btn">Convert Temperature</button>
+        
+        <div class="result-container" id="result-container">
+            <div>Converted Temperature</div>
+            <div class="result-value" id="result-value">0</div>
+            
+            <div class="temperature-scale">
+                <div class="temperature-indicator" id="temperature-indicator"></div>
+            </div>
+            <div class="comparison" id="temperature-comparison"></div>
+        </div>
+    </div>
+
+    <script src="task3.js"></script>
+</body>
+</html>
