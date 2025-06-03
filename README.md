@@ -21,7 +21,6 @@
 - **Kelvin → Celsius & Fahrenheit**
 - Conversion output is limited to **1 decimal place** for readability.
 
----
 
 ## 💡 Extras
 
