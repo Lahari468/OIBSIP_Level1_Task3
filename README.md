@@ -19,14 +19,14 @@
 - **Celsius → Fahrenheit & Kelvin**
 - **Fahrenheit → Celsius & Kelvin**
 - **Kelvin → Celsius & Fahrenheit**
-- Conversion output is limited to **1 decimal place** for readability.
+- Conversion output is limited to **1 decimal place** for readability
 
 
 ## 💡CSS3
 
-- Fully responsive on small screens (mobile-first design).
-- Visual scale adjusts position of the indicator dynamically.
-- Semantic code with accessibility-friendly form labeling.
+- Fully responsive on small screens (mobile-first design)
+- Visual scale adjusts position of the indicator dynamically
+- Semantic code with accessibility-friendly form labeling
 
 ## 🖼️ Preview
 
